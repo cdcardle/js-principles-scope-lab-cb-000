@@ -1,2 +1,1 @@
-let customerName = 'bob'
-
+customerName = 'bob'
