@@ -1,4 +1,4 @@
-const customerName = 'bob'
+customerName = 'bob'
 
 function upperCaseCustomerName() {
   return customerName.toUpperCase()
