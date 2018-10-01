@@ -1,5 +1,6 @@
 customerName = 'bob'
 
 function upperCaseCustomerName() {
-  return newName = customerName.toUpperCase();
+  newName = customerName.toUpperCase();
+  return newName
 }
